@@ -76,7 +76,9 @@
         android:text="of"
         android:id="@+id/textView3"
         android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/percentageTxt" />
 
     <Button
         android:layout_width="wrap_content"
